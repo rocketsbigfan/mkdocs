@@ -1113,3 +1113,5 @@ different process for generating those `mo` files if you chose to do so.
 
 [packaging a theme]: #packaging-themes
 [Testing theme translations]: translations.md#testing-theme-translations
+
+#### Test
